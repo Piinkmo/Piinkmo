@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Piinkmo
-- 👀 A humble learner
-- 🌱 Never lose hope
-- 💞️ naxxhua
-- 📫 roxannechia33@gmail.com
+- 👀 MS Statistic student in Texas A&M University
+- 🌱 A humble learner
+- 📫 yutingjia@tamu.edu
 
 <!---
 Piinkmo/Piinkmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
